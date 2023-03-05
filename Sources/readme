@@ -1,0 +1,3 @@
+use winCupl for modify PLD files GAL22V10D
+
+use sjasmplus for compile um.asm 
